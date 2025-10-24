@@ -39,18 +39,22 @@ O curso é desenhado para ser totalmente prático, acessível e flexível, permi
 | Tainara Nogueira de Almeida - 31 anos | Cabeleireira (PJ). | Portfólio Builder. | Criar uma vitrine visual de seus trabalhos, essencial para a captação de clientes na área de beleza. |
 | Daiana Mariano de Almeida - 20 anos| Reinserção Profissional (Desempregada). | LinkedIn Pro. | Reativar sua rede profissional e buscar recolocação no mercado de trabalho após afastamento por licença-maternidade. |
 
-**Equipe/Orientador Acadêmico do Projeto:** Sandy Jennifer da Silva Conceição- Estudante do Curso de Gestão de Tecnologia da Informação - Desenvolvedora Front-End Pela Cognizant em nome do Google 
+**Equipe/Orientador Acadêmico do Projeto:** Sandy Jennifer da Silva Conceição - Estudante do Curso de Gestão de Tecnologia da Informação - Desenvolvedora Front-End Pela Cognizant em nome do Google.
+
 **Como projeto piloto, estabelecemos metas ambiciosas para medir o impacto:**
+
 - Conclusão e Entrega:100% dos participantes terão seus produtos digitais (perfil, portfólio ou site) finalizados e publicados.
 - Engajamento: 80% de frequência nas aulas, devido à relevância e aplicabilidade imediata do conteúdo.
 - Impacto no Mercado: 40% dos participantes reportarão um aumento na procura profissional (convites para entrevistas, orçamentos ou novos clientes) nos três meses seguintes à conclusão do curso.
 
 **Como Resultados houve porcentagens inimagináveis e muito satisfatórias:**
+
 -  Conclusão e Entrega:100% dos participantes finalizaram e publicaram seus projetos.
 - Engajamento: todos os alunos compareceram em 100% das aulas.
 - Impacto no Mercado: 100% dos participantes reportaram um aumento na procura profissional após a primeira semana de conclusão do curso.
 
 **Observação sobre a Replicabilidade**
+
 É fundamental destacar que o desempenho alcançado no projeto piloto foi extraordinário, configurando um **caso atípico de sucesso amplificado**. Embora demonstre a potência máxima da metodologia do **ComuniDeveCode**, é importante frisar que a manutenção de 100% em todos os indicadores em uma escala maior não é uma garantia. O ambiente do piloto foi meticulosamente otimizado, contando com um grupo de participantes altamente motivados e uma dedicação de tempo ideal. No entanto, o resultado é uma **prova incontestável da demanda e da eficácia do projeto**, servindo como **marco de excelência** e indicando um vasto potencial para o desenvolvimento em larga escala. A meta, a longo prazo, é replicar a essência dessa excelência e manter consistentemente resultados acima da média.
 
 **Possível Escalabilidade:** 
