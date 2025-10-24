@@ -53,6 +53,18 @@ O curso é desenhado para ser totalmente prático, acessível e flexível, permi
 - Engajamento: todos os alunos compareceram em 100% das aulas.
 - Impacto no Mercado: 100% dos participantes reportaram um aumento na procura profissional após a primeira semana de conclusão do curso.
 
+# Projeto dos Participantes
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4dd97f23-b85e-46a3-9837-39c05dee6c12" />   
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4dd97f23-b85e-46a3-9837-39c05dee6c12" />
+
+
+[Sara Caroline](https://www.linkedin.com/in/sara-caroline-40013829a/)
+
+
+
+[Patrícia Nogueira](https://www.linkedin.com/in/sara-caroline-40013829a/)
+
 **Observação sobre a Replicabilidade**
 
 É fundamental destacar que o desempenho alcançado no projeto piloto foi extraordinário, configurando um **caso atípico de sucesso amplificado**. Embora demonstre a potência máxima da metodologia do **ComuniDeveCode**, é importante frisar que a manutenção de 100% em todos os indicadores em uma escala maior não é uma garantia. O ambiente do piloto foi meticulosamente otimizado, contando com um grupo de participantes altamente motivados e uma dedicação de tempo ideal. No entanto, o resultado é uma **prova incontestável da demanda e da eficácia do projeto**, servindo como **marco de excelência** e indicando um vasto potencial para o desenvolvimento em larga escala. A meta, a longo prazo, é replicar a essência dessa excelência e manter consistentemente resultados acima da média.
