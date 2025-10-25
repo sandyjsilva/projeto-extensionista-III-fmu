@@ -54,16 +54,22 @@ O curso é desenhado para ser totalmente prático, acessível e flexível, permi
 - Impacto no Mercado: 100% dos participantes reportaram um aumento na procura profissional após a primeira semana de conclusão do curso.
 
 # Projeto dos Participantes
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/26ed13ea-16b9-48e5-9cab-5fd0f8e9c7b5" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/fb1f1bb2-a709-4721-be20-559869273ec9" />
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4dd97f23-b85e-46a3-9837-39c05dee6c12" />   
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4dd97f23-b85e-46a3-9837-39c05dee6c12" />
+[Marcio Valerio - Site Express Canva](https://automecanicabatata.my.canva.site/)
 
 
 [Sara Caroline](https://www.linkedin.com/in/sara-caroline-40013829a/)
 
+[Patricia Nogueira](https://www.linkedin.com/in/sara-caroline-40013829a/)
+
 
 
 [Patrícia Nogueira](https://www.linkedin.com/in/sara-caroline-40013829a/)
+
+
+
 
 **Observação sobre a Replicabilidade**
 
