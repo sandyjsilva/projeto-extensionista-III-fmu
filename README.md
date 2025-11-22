@@ -2,7 +2,7 @@
 
 **Objetivo do Projeto ComuniTech.Dev: Conectando Talentos Periféricos ao Mercado Digital Através da Visibilidade Online**
 
-O projeto de extensão universitária CominiDevCode é um piloto (demo) estruturado em resposta direta à crescente disparidade no acesso a oportunidades profissionais na era digital. Reconhecemos que a capacidade de construir e gerenciar uma presença online estratégica é hoje um fator crítico para a empregabilidade e o sucesso autônomo. O projeto visa, portanto, democratizar o conhecimento técnico necessário para que indivíduos de comunidades periféricas e em situação de vulnerabilidade socioeconômica possam se reintegrar ou se posicionar com sucesso no mercado de trabalho (CLT ou PJ), utilizando a tecnologia como principal vetor de transformação e visibilidade.
+O projeto de extensão universitária ComuniTech.Dev é um piloto (demo) estruturado em resposta direta à crescente disparidade no acesso a oportunidades profissionais na era digital. Reconhecemos que a capacidade de construir e gerenciar uma presença online estratégica é hoje um fator crítico para a empregabilidade e o sucesso autônomo. O projeto visa, portanto, democratizar o conhecimento técnico necessário para que indivíduos de comunidades periféricas e em situação de vulnerabilidade socioeconômica possam se reintegrar ou se posicionar com sucesso no mercado de trabalho (CLT ou PJ), utilizando a tecnologia como principal vetor de transformação e visibilidade.
 
 **O objetivo Geral** é capacitar indivíduos de comunidades periféricas a criar e gerenciar sua visibilidade profissional online, utilizando plataformas e ferramentas digitais estratégicas para reinserção no mercado de trabalho ou para o impulsionamento de seus negócios existentes, promovendo assim a inclusão digital e a autonomia econômica.
 
@@ -13,11 +13,11 @@ O curso é desenhado para ser totalmente prático, acessível e flexível, permi
 
 |  **Módulos** | **Foco da Capacitação** | **Objetivo Prático** | **Carga Horária Estimada**  |
 |  :--- | :--- | :--- | :--  |
-|  **Módulo1:** | LinkedIn Pro | Criação e otimização de perfil profissional estratégico (CLT). | Ser visto e contatado para entrevistas e oportunidades de trabalho.| 8 horas  |
-|  **Módulo2:** | Portfólio Builder (HTML/CSS/JS) | Construção de um portfólio digital pessoal do zero com linguagens de programação básicas (PJ/Autônomo). | Expor serviços e competências de forma profissional e acessível a clientes. | 12 horas  |
-|  **Módulo 3:** | Site Express (HTML/CSS/JS ou Canva) | Desenvolvimento de um website simples e funcional usando plataformas de design intuitivas ouprogramação baásica. | Atrair mais clientes, criar uma vitrine digital e modernizar pequenos negócios. | 8 horas  |
+|  **Módulo1:** | LinkedIn Pro | Criação e otimização de perfil profissional estratégico (CLT), com também Curriculo Vitae. | Ser visto e contatado para entrevistas e oportunidades de trabalho.| 8 horas  |
+|  **Módulo2:** | Portfólio Builder (HTML/CSS/JS) | Construção de um portfólio digital pessoal do zero com linguagens de programação básicas ou Canava (PJ/Autônomo). | Expor serviços e competências de forma profissional e acessível a clientes. | 22 horas  |
+|  **Módulo 3:** | Site Express (HTML/CSS/JS ou Canva) | Desenvolvimento de um website simples e funcional usando plataformas de design intuitivas ouprogramação baásica. | Atrair mais clientes, criar uma vitrine digital e modernizar pequenos negócios, e ferramentas como Canva. | 28 horas  |
 |  Sessões Práticas e Mentoria | Acompanhamento e aplicação dos conhecimentos. | Dúvidas, revisões e entrega do produto digital finalizado.|
-|  Carga Horária Total (Curso Completo)  | - | - |  40 horas  |
+|  Carga Horária Total (Curso Completo)  | - | - |  60 horas  |
 
 **Logística de Execução:**
 
@@ -31,13 +31,8 @@ O curso é desenhado para ser totalmente prático, acessível e flexível, permi
 
 **Pessoas Participantes e Histórias de Impacto:** Os participantes desta fase piloto representam a diversidade de necessidades profissionais que o projeto busca atender, demonstrando a aplicabilidade prática dos módulos:
 
-| **Participante** | **Foco Profissional** | **Módulos Escolhidos** | **Objetivo Alcançado** |
-| :-- | :-- | :-- | :-- |
-| Sara Caroline da Silva Conceição - 26 anos | Psicóloga em formação - CLT/PJ | Completo (LinkedIn, Portfólio, Site). | Preparação para entrar como CLT e iniciar a clínica (PJ), usando o site como ferramenta de credibilidade. |
-| Patrícia Nogueira de Almeida - 47 anos | Transição para Autônoma (Faxina/Lavanderia). | Portfólio Builder. | Profissionalizar e divulgar seus serviços autônomos por meio de um portfólio digital organizado. |
-| Márcio Valério Conceição - 59 anos | Dono de Mecânica. | Site Express. | Modernizar e atrair mais clientes para seu negócio local através de uma presença online simples e eficaz. |
-| Tainara Nogueira de Almeida - 31 anos | Cabeleireira (PJ). | Portfólio Builder. | Criar uma vitrine visual de seus trabalhos, essencial para a captação de clientes na área de beleza. |
-| Daiana Mariano de Almeida - 20 anos| Reinserção Profissional (Desempregada). | LinkedIn Pro. | Reativar sua rede profissional e buscar recolocação no mercado de trabalho após afastamento por licença-maternidade. |
+Na participação do curso houveram vários voluntários que se dispuseram a participar desse estudo demonstrativo (mais pessoas até das quais não estávamos preparados), alguns já finalizaram e outros estão com os cursos em andamento.
+
 
 **Equipe/Orientador Acadêmico do Projeto:** Sandy Jennifer da Silva Conceição - Estudante do Curso de Gestão de Tecnologia da Informação - Desenvolvedora Front-End Pela Cognizant em nome do Google.
 
@@ -62,22 +57,25 @@ O curso é desenhado para ser totalmente prático, acessível e flexível, permi
 
 [Sara Caroline](https://www.linkedin.com/in/sara-caroline-40013829a/)
 
-[Patricia Nogueira](https://www.linkedin.com/in/sara-caroline-40013829a/)
-
-
-
-[Patrícia Nogueira](https://www.linkedin.com/in/sara-caroline-40013829a/)
-
-
+**Há muitos outros exemplos de cursos e projetos bem sucedidos e demoraria um tempo para catalogar todos aqui, esses são os primeiroa a finalizarem e deixarem como projetos exposto**
 
 
 **Observação sobre a Replicabilidade**
 
-É fundamental destacar que o desempenho alcançado no projeto piloto foi extraordinário, configurando um **caso atípico de sucesso amplificado**. Embora demonstre a potência máxima da metodologia do **ComuniDeveCode**, é importante frisar que a manutenção de 100% em todos os indicadores em uma escala maior não é uma garantia. O ambiente do piloto foi meticulosamente otimizado, contando com um grupo de participantes altamente motivados e uma dedicação de tempo ideal. No entanto, o resultado é uma **prova incontestável da demanda e da eficácia do projeto**, servindo como **marco de excelência** e indicando um vasto potencial para o desenvolvimento em larga escala. A meta, a longo prazo, é replicar a essência dessa excelência e manter consistentemente resultados acima da média.
+É fundamental destacar que o desempenho alcançado no projeto piloto foi extraordinário, configurando um **caso atípico de sucesso amplificado**. Embora demonstre a potência máxima da metodologia do **ComuniTech.Dev**, é importante frisar que a manutenção de 100% em todos os indicadores em uma escala maior não é uma garantia. O ambiente do piloto foi meticulosamente otimizado, contando com um grupo de participantes altamente motivados e uma dedicação de tempo ideal. No entanto, o resultado é uma **prova incontestável da demanda e da eficácia do projeto**, servindo como **marco de excelência** e indicando um vasto potencial para o desenvolvimento em larga escala. A meta, a longo prazo, é replicar a essência dessa excelência e manter consistentemente resultados acima da média.
 
 **Possível Escalabilidade:** 
 - Reinserção Profissional: ONGs de Empregabilidade ou Empresas de RH para mentoria e encaminhamento de currículos.
 - Apoio ao Autônomo: SEBRAE para oferecer micro-palestras sobre formalização (MEI) e gestão financeira.
+
+# Expansão do projeto
+
+Antes da finalização deste projeto, surgiu a oportunidade de iniciar um estudo mais cuidadoso e prático em uma ONG na comunidade. Como não queria descartar todo o trabalho já desenvolvido, nem deixar essa oportunidade passar, decidi integrar esse novo estudo ao projeto existente.
+
+A princípio, o foco será oferecer aulas básicas, desde ligar um computador, criar pastas, criar e escrever um e-mail, elaborar um currículo no Word e enviar currículos para empresas. Também serão incluídas orientações sobre como se proteger de golpes e manter a segurança digital. Todo o conteúdo irá do nível mais básico ao intermediário, preparando o caminho para uma possível integração com os cursos já existentes no Projeto Demo.
+
+Além disso, serão adicionados métodos de avaliação e emissão de certificados, compondo uma proposta de expansão para os próximos meses.
+
 
 
 
