@@ -1,6 +1,6 @@
 # Projeto Extensionista Módulo III Aplicada a Tecnologias da Informação FMU
 
-**Objetivo do Projeto CominiDevCode: Conectando Talentos Periféricos ao Mercado Digital Através da Visibilidade Online**
+**Objetivo do Projeto ComuniTech.Dev: Conectando Talentos Periféricos ao Mercado Digital Através da Visibilidade Online**
 
 O projeto de extensão universitária CominiDevCode é um piloto (demo) estruturado em resposta direta à crescente disparidade no acesso a oportunidades profissionais na era digital. Reconhecemos que a capacidade de construir e gerenciar uma presença online estratégica é hoje um fator crítico para a empregabilidade e o sucesso autônomo. O projeto visa, portanto, democratizar o conhecimento técnico necessário para que indivíduos de comunidades periféricas e em situação de vulnerabilidade socioeconômica possam se reintegrar ou se posicionar com sucesso no mercado de trabalho (CLT ou PJ), utilizando a tecnologia como principal vetor de transformação e visibilidade.
 
